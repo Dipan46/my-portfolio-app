@@ -1,0 +1,52 @@
+[
+    {
+        "src": "backyardImg",
+        "alt": "A lush backyard.",
+        "className": "item1"
+    },
+    {
+        "src": "dogImg",
+        "alt": "A friendly dog.",
+        "className": "item2"
+    },
+    {
+        "src": "gangaImg",
+        "alt": "The Ganga river.",
+        "className": "item3"
+    },
+    {
+        "src": "fireImg",
+        "alt": "A crackling fire.",
+        "className": "item4"
+    },
+    {
+        "src": "patkathiImg",
+        "alt": "Dry jute sticks.",
+        "className": "item5"
+    },
+    {
+        "src": "busImg",
+        "alt": "A local bus.",
+        "className": "item6"
+    },
+    {
+        "src": "penImg",
+        "alt": "A close-up of a pen.",
+        "className": "item7"
+    },
+    {
+        "src": "howrahBridgeImg",
+        "alt": "The Howrah Bridge in Kolkata.",
+        "className": "item8"
+    },
+    {
+        "src": "sunsetImg",
+        "alt": "A beautiful sunset.",
+        "className": "item9"
+    },
+    {
+        "src": "groundImg",
+        "alt": "A local playing ground.",
+        "className": "item10"
+    }
+]

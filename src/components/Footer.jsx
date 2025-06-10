@@ -1,9 +1,9 @@
 import React from "react";
 import styles from "./Footer.module.css";
-import girhub from '../../assets/icon/girhub.png';
-import linkedin from '../../assets/icon/linkedin.png';
-import instagram from '../../assets/icon/instagram.png';
-import gmail from '../../assets/icon/gmail.png';
+import girhub from "../assets/icon/girhub.png";
+import linkedin from "../assets/icon/linkedin.png";
+import instagram from "../assets/icon/instagram.png";
+import gmail from "../assets/icon/gmail.png";
 
 function Footer() {
     return (

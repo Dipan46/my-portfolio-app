@@ -18,7 +18,6 @@ function App() {
                 <Photos />
             </main>
             <Footer />
-            {/* The circle divs and custom cursor logic from curser.js will need to be handled differently in React */}
         </div>
     );
 }

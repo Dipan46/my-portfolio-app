@@ -76,4 +76,14 @@
         display: grid;
         grid-template-columns: auto;
     }
+
+    .proImg {
+        width: 60vw;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .proImg {
+        width: 80vw;
+    }
 }

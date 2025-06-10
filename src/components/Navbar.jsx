@@ -1,12 +1,12 @@
 import React from "react";
 import styles from "./Navbar.module.css";
 
-import signImage from "../../assets/Image/Sign2.png";
-import homeIcon from "../../assets/icon/house3.png";
-import aboutIcon from "../../assets/icon/about3.png";
-import projectIcon from "../../assets/icon/project3.png";
-import photoIcon from "../../assets/icon/camera3.png";
-import contactIcon from "../../assets/icon/contact3.png";
+import signImage from "../assets/Image/Sign2.png";
+import homeIcon from "../assets/icon/house3.png";
+import aboutIcon from "../assets/icon/about3.png";
+import projectIcon from "../assets/icon/project3.png";
+import photoIcon from "../assets/icon/camera3.png";
+import contactIcon from "../assets/icon/contact3.png";
 
 function Navbar() {
     return (
