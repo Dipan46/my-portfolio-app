@@ -3,27 +3,29 @@
 A personal portfolio website showcasing my projects, skills, and contact information. Built with React and Vite, this application provides a clean and responsive way to present my work to potential employers and collaborators.
 
 ---
+
 ## 🔍 Preview
-- Live - [Add Live Demo Link Here]
+
+-   [Live](https://dipan46.github.io/my-portfolio-app/)
 
 ## ✨ Features
 
-- 🏠 **Home Section** – Introduction and welcome
-- 👋 **About Section** – Details about me, skills, and experience
-- 💻 **Projects Section** – Showcase of personal and professional projects
-- 📸 **Photos Section** – A collection of relevant images or work
-- ✉️ **Contact/Footer** – Information for getting in touch
-- 📱 **Responsive Design** – Optimized for various screen sizes
-- 导航 **Navigation** – Easy access to different sections of the portfolio
+-   🏠 **Home Section** – Introduction and welcome
+-   👋 **About Section** – Details about me, skills, and experience
+-   💻 **Projects Section** – Showcase of personal and professional projects
+-   📸 **Photos Section** – A collection of relevant images or work
+-   ✉️ **Contact/Footer** – Information for getting in touch
+-   📱 **Responsive Design** – Optimized for various screen sizes
+-   导航 **Navigation** – Easy access to different sections of the portfolio
 
 ---
 
 ## 🛠️ Technologies Used
 
-- **React** – JavaScript library for building UIs
-- **Vite** - Fast frontend build tool
-- **HTML & CSS** – For structure and styling (potentially with CSS Modules based on file names)
-- **JavaScript (ES6+)** – Application logic
+-   **React** – JavaScript library for building UIs
+-   **Vite** - Fast frontend build tool
+-   **HTML & CSS** – For structure and styling (potentially with CSS Modules based on file names)
+-   **JavaScript (ES6+)** – Application logic
 
 ---
 
@@ -39,21 +41,23 @@ _Example UI of the app in action:_
 
 ### Prerequisites
 
-- [Node.js](https://nodejs.org/) (comes with `npm`)
+-   [Node.js](https://nodejs.org/) (comes with `npm`)
 
 ### Installation
 
 1. **Clone the repository**:
 
-   ```bash
-   git clone [Your Repository URL Here]
-   cd my-portfolio-app
+    ```bash
+    git clone [Your Repository URL Here]
+    cd my-portfolio-app
+
+    ```
 
 2. **Install dependencies**:
 
-   ```bash
-   npm install
-   ```
+    ```bash
+    npm install
+    ```
 
 ### Running the app
 
@@ -106,13 +110,13 @@ my-portfolio-app/
 
 ## 💡 Learnings & Concepts Demonstrated
 
-*   🧠 **Component-Based Architecture**
-*   🧩 **Component Composition**
-*   🧬 **Props Handling**
-*   👁️ **Conditional Rendering**
-*   🖱 **Event Handling**
-*   📱 **Responsive Design**
-*   📦 **Module CSS** (based on file names)
+-   🧠 **Component-Based Architecture**
+-   🧩 **Component Composition**
+-   🧬 **Props Handling**
+-   👁️ **Conditional Rendering**
+-   🖱 **Event Handling**
+-   📱 **Responsive Design**
+-   📦 **Module CSS** (based on file names)
 
 ---
 
@@ -130,4 +134,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👨‍💻 Author
 
-Made with ❤️ by [Your Name/GitHub Handle]
+Made with ❤️ by [[Dipan46](https://github.com/Dipan46)]
