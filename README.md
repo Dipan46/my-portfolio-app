@@ -6,7 +6,11 @@ A personal portfolio website showcasing my projects, skills, and contact informa
 
 ## 🔍 Preview
 
+<<<<<<< Updated upstream
 -   Live - [https://dipan46.github.io/my-portfolio-app/](https://dipan46.github.io/my-portfolio-app/)
+=======
+-   Live - [https://dipan46.github.io/my-portfolio-app/]
+>>>>>>> Stashed changes
 
 ## ✨ Features
 
@@ -33,7 +37,7 @@ A personal portfolio website showcasing my projects, skills, and contact informa
 
 _Example UI of the app in action:_
 
-![Preview](./path/to/your/screenshot.png)
+![Preview](./preview/prev.png)
 
 ---
 
