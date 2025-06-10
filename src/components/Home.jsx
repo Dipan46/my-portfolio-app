@@ -7,7 +7,7 @@ function Home() {
             <div className={styles.intro}>
                 <h1>
                     <span className={styles.grt}>Hello everyone</span> <br />{" "}
-            <span className={styles.name}>Dipan</span>&nbsp; here <br />
+                    <span className={styles.name}>Dipan</span>&nbsp; here <br />
                     <span className={styles.abt}>
                         <br />
                         I'm a web designer and Developer <br />I also like to do
@@ -16,7 +16,7 @@ function Home() {
                 </h1>
                 <a
                     target="_blank"
-                    href="https://drive.google.com/file/d/12e78_x5feIPKMWL_ww4zmRHTEX05Jgay/view?usp=sharing"
+                    href="https://drive.google.com/file/d/1Y8QMZhq5lbTyeRjiQri9waJPaBkYDCcl/view?usp=sharing"
                 >
                     <button className={styles.resume}>Resume</button>
                 </a>
