@@ -1,0 +1,36 @@
+/* Footer */
+.footer {
+    text-align: center;
+    align-items: center;
+    color: #fff;
+    background-color: #000000;
+    text-align: center;
+    padding: 1rem 0;
+    margin: 0;
+}
+
+.contact {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 2rem 0;
+}
+
+.social {
+    display: contents;
+    justify-content: space-evenly;
+    padding: 2rem 0;
+}
+
+.social a img {
+    width: 2.5rem;
+}
+
+.footerText {
+    text-align: center;
+    align-items: center;
+    color: #fff;
+    background-color: #000000;
+    text-align: center;
+    padding: 1rem 0;
+    margin: 0;
+}
