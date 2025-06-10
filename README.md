@@ -80,67 +80,9 @@ my-portfolio-app/
 │   ├── App.jsx
 │   ├── assets/
 │   │   ├── icon/
-│   │   │   ├── 46.ico
-│   │   │   ├── about.png
-│   │   │   ├── about2.png
-│   │   │   ├── about3.png
-│   │   │   ├── camera.png
-│   │   │   ├── camera3.png
-│   │   │   ├── contact.png
-│   │   │   ├── contact2.png
-│   │   │   ├── contact3.png
-│   │   │   ├── girhub.png
-│   │   │   ├── gmail.png
-│   │   │   ├── house.png
-│   │   │   ├── house2.png
-│   │   │   ├── house3.png
-│   │   │   ├── instagram.png
-│   │   │   ├── internship.png
-│   │   │   ├── internship1.png
-│   │   │   ├── internship2.png
-│   │   │   ├── linkedin.png
-│   │   │   ├── project.png
-│   │   │   ├── project2.png
-│   │   │   └── project3.png
 │   │   ├── Image/
-│   │   │   ├── backyeard.jpg
-│   │   │   ├── Bus.jpg
-│   │   │   ├── BW.png
-│   │   │   ├── BW2.png
-│   │   │   ├── bwp.png
-│   │   │   ├── dog.jpg
-│   │   │   ├── Fire.jpg
-│   │   │   ├── ganga.jpg
-│   │   │   ├── ground.jpg
-│   │   │   ├── howraBridge.jpg
-│   │   │   ├── IMG-20240303-WA0177(BW).png
-│   │   │   ├── IMG-20240303-WA0177.jpg
-│   │   │   ├── IMG-20240303-WA0177.png
-│   │   │   ├── patkathi.jpg
-│   │   │   ├── pen.jpg
-│   │   │   ├── Sign.png
-│   │   │   ├── Sign1.png
-│   │   │   ├── Sign2.png
-│   │   │   └── sunset.jpg
 │   │   ├── internship/
-│   │   │   ├── BI.jpg
-│   │   │   ├── cld.jpg
-│   │   │   ├── GAD.jpg
-│   │   │   ├── lr.jpg
-│   │   │   └── mcWD.jpg
 │   │   └── projects/
-│   │       ├── AWR.png
-│   │       ├── ens.png
-│   │       ├── fa.png
-│   │       ├── hh.png
-│   │       ├── kpr.png
-│   │       ├── pm.png
-│   │       ├── salesdata.png
-│   │       ├── sc.png
-│   │       ├── texted.png
-│   │       ├── todo.png
-│   │       ├── ts.png
-│   │       └── TSM.png
 │   ├── components/
 │   │   ├── About.jsx
 │   │   ├── Footer.jsx
