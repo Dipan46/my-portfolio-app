@@ -1,4 +1,5 @@
 import React from "react";
+import img from "../../assets/Image/BW2.png";
 import styles from "./Home.module.css";
 
 function Home() {
@@ -22,8 +23,8 @@ function Home() {
                 </a>
             </div>
             <img
-                src="Image/BW2.png"
-                alt="img"
+                src={img}
+                alt="dipanImg"
                 className={styles.mainImg}
                 loading="lazy"
             />
