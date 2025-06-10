@@ -76,8 +76,6 @@ my-portfolio-app/
 ├── preview/
 │   └── prev.png
 ├── src/
-│   ├── App.css
-│   ├── App.jsx
 │   ├── assets/
 │   │   ├── icon/
 │   │   ├── Image/
@@ -95,11 +93,13 @@ my-portfolio-app/
 │   │   ├── Photos.module.css
 │   │   ├── Projects.jsx
 │   │   └── Projects.module.css
+│   ├── utils/
+│   │   ├── card.json
+│   │   └── photos.json
+│   ├── App.css
+│   ├── App.jsx
 │   ├── index.css
-│   ├── main.jsx
-│   └── utils/
-│       ├── card.json
-│       └── photos.json
+│   └── main.jsx
 ├── eslint.config.js
 ├── index.html
 ├── package-lock.json
