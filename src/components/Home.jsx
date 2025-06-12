@@ -17,7 +17,7 @@ function Home() {
                 </h1>
                 <a
                     target="_blank"
-                    href="https://drive.google.com/file/d/1Y8QMZhq5lbTyeRjiQri9waJPaBkYDCcl/view?usp=sharing"
+                    href="https://drive.google.com/file/d/1amwaPkJU5F7McZMP5-ohEirh52ktrEB1/view?usp=drive_link"
                 >
                     <button className={styles.resume}>Resume</button>
                 </a>
