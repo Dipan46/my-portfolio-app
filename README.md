@@ -73,14 +73,16 @@ Visit [http://localhost:5173](http://localhost:5173) in your browser.
 
 ```
 my-portfolio-app/
-├── public/
-│   └── vite.svg
+├── preview/
+│   └── prev.png
 ├── src/
-│   ├── App.css
-│   ├── App.jsx
+│   ├── assets/
+│   │   ├── icon/
+│   │   ├── Image/
+│   │   ├── internship/
+│   │   └── projects/
 │   ├── components/
 │   │   ├── About.jsx
-│   │   ├── Cursor.js
 │   │   ├── Footer.jsx
 │   │   ├── Footer.module.css
 │   │   ├── Home.jsx
@@ -91,18 +93,19 @@ my-portfolio-app/
 │   │   ├── Photos.module.css
 │   │   ├── Projects.jsx
 │   │   └── Projects.module.css
+│   ├── utils/
+│   │   ├── card.json
+│   │   └── photos.json
+│   ├── App.css
+│   ├── App.jsx
 │   ├── index.css
-│   ├── main.jsx
-│   └── utils/
-│       ├── card.json
-│       └── lazyload.js
-├── .gitignore
+│   └── main.jsx
 ├── eslint.config.js
 ├── index.html
 ├── package-lock.json
 ├── package.json
-├── README.md
 └── vite.config.js
+
 
 ```
 
