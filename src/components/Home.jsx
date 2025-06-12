@@ -4,7 +4,7 @@ import styles from "./Home.module.css";
 
 function Home() {
     return (
-        <section className={styles.home}>
+        <section id="home" className={styles.home}>
             <div className={styles.intro}>
                 <h1>
                     <span className={styles.grt}>Hello everyone</span> <br />{" "}
